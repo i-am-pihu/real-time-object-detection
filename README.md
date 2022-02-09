@@ -2,5 +2,5 @@
  The main purpose of the object detection system is to identify the object in real-time. It can detect single or multiple objects at the same time. Technologies Used: Python, OpenCV, Tkinter, etc.
 
 Note:
-Username:Admin
-Password:1234
+Username: Admin
+Password: 1234
